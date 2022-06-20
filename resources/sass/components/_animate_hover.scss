@@ -1,0 +1,8 @@
+.hover-lift-light:hover {
+    box-shadow: 0 1rem 3rem rgba(35,38,45,.05)!important;
+    transform: translate3d(0,-5px,0);
+    }
+    
+    .hover-lift-light {
+    transition: box-shadow .25s ease,transform .25s ease,color .25s ease,background-color .15s ease-in;
+    }

@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'TerminaW00-Demi';
+    src: url('TerminaW00-Demi.woff2') format('woff2'),
+        url('TerminaW00-Demi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TerminaW05';
+    src: url('TerminaW05-Bold.woff2') format('woff2'),
+        url('TerminaW05-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TerminaW00';
+    src: url('TerminaW00-Heavy.woff2') format('woff2'),
+        url('TerminaW00-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
